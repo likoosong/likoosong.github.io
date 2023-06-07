@@ -1,4 +1,10 @@
-#### 检查远程仓库的方式方法(http)
+#### 关于Git简单配置和绑定key提交的问题
+
+[笔记](https://note.youdao.com/s/5BLLoYtA)
+
+#### 改变提交方式的方法HTTP改SSH
+
+检查远程仓库的方式(http)
 
 ```
 $ git remote -v
