@@ -14,7 +14,7 @@ hero:
       text: 随手记
       link: https://note.youdao.com/s/E2USnvjP
     - theme: alt
-      text: Linux命令在线查询
+      text: Linux命令查询
       link: https://likoosong.github.io/linux/
 
 
