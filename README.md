@@ -3,7 +3,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
 
-[![Auth](https://img.shields.io/badge/Auth-likoosong-ff69b4?logo=github)](https://github.com/likoosong) [![Gitee](https://img.shields.io/badge/Gitee-szbin-green?logo=gitee)](https://gitee.com/likoosong) [![微博](https://img.shields.io/badge/微博-雁过无声song-8A2BE2?logo=weibo)](https://www.weibo.com/u/1495375454) 
+[![Auth](https://img.shields.io/badge/Auth-likoosong-ff69b4?logo=github)](https://github.com/likoosong) [![Gitee](https://img.shields.io/badge/Gitee-szbin-green?logo=gitee)](https://gitee.com/likoosong) [![微博](https://img.shields.io/badge/微博-雁过无声song-8A2BE2?logo=sina)](https://www.weibo.com/u/1495375454) 
 
 
 
