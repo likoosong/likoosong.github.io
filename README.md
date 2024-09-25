@@ -1,5 +1,5 @@
 
-![https://github.com/likoosong](D:\likoosong\likoosong\images\logo202400.png)
+![https://github.com/likoosong](./images/logo202400.png)
 
 
 #### 网络之路
