@@ -3,7 +3,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
 
-[![Auth](https://img.shields.io/badge/Auth-likoosong-ff69b4?logo=github)](https://github.com/likoosong) [![Gitee](https://img.shields.io/badge/Gitee-szbin-green?logo=gitee)](https://gitee.com/szbin) 
+[![Auth](https://img.shields.io/badge/Auth-likoosong-ff69b4?logo=github)](https://github.com/likoosong) [![Gitee](https://img.shields.io/badge/Gitee-szbin-green?logo=gitee)](https://gitee.com/likoosong) 
 
 
 
