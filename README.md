@@ -7,11 +7,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=likoosong&show_icons=true" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" />
 
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=likoosong&theme=flat" alt="logo" height="60" align="left" style="margin: auto; margin-bottom: 20px;" />
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likoosong&layout=compact)](https://github.com/likoosong/github-readme-stats) 
 
 
 
