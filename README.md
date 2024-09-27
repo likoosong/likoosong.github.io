@@ -1,8 +1,6 @@
 
 ![https://github.com/likoosong](./images/logo202400.png)
 ---
-<!-- 本例不能添加链接内容，放在此处只是因为此接口比较方便，也许能够解决大部分的需求-->
-<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer=""></script>
 
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
 
