@@ -98,11 +98,12 @@ remote: Resolving deltas: 100% (3/3), done.
 To github.com:likoosong/likoosong.git
    f06166a..5ead372  main -> main
 ```
-
-不知道什么原因，别人的仓库都是master，我的为什么是main，后来查了资料，是可能在建库初期，更改分支的名字的，通过这条命令来完成。 ` git branch -M main `
-
 ```
 git config --global credential.helper store
 ```
-
 这种方式没有测试。不过，家中的一台win10的笔电没有这种问题，不知道是什么原因，等有机会重新安装或利用虚拟机再测试一次。
+
+不知道什么原因，别人的仓库都是master，我的为什么是main。后来查了资料，是可能在建库初期，更改分支的名字的，通过这条命令来完成。 
+```
+git branch -M main 
+```

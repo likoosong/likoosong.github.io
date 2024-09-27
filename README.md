@@ -1,6 +1,8 @@
 
 ![https://github.com/likoosong](./images/logo202400.png)
 
+<script src="https://v1.hitokoto.cn/?encode=js&amp;select=%23hitokoto" defer=""></script>
+
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
 
 [![Auth](https://img.shields.io/badge/Auth-likoosong-ff69b4?logo=github)](https://github.com/likoosong) [![Gitee](https://img.shields.io/badge/Gitee-szbin-green?logo=gitee)](https://gitee.com/likoosong) [![Weibo](https://img.shields.io/badge/微博-雁过无声song-8A2BE2?logo=Weibo)](https://www.weibo.com/u/1495375454) [![公众号](https://img.shields.io/badge/公众号-雁过无声song-blue?logo=Wechat)](https://weixin.qq.com)  
