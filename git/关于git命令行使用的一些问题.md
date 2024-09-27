@@ -99,7 +99,7 @@ To github.com:likoosong/likoosong.git
    f06166a..5ead372  main -> main
 ```
 
-不知道什么原因，别人的仓库都是master，我的为什么是main
+不知道什么原因，别人的仓库都是master，我的为什么是main，后来查了资料，是可能在建库初期，更改分支的名字的，通过这条命令来完成。 ` git branch -M main `
 
 ```
 git config --global credential.helper store
