@@ -19,3 +19,7 @@
 个人比较偏爱这几种编程语言**Python**，**JavaScript**，**Go**等......
 
 唯一被 Fork && Star 的仓库 [![](https://img.shields.io/github/stars/likoosong/kml_generater.svg)](https://github.com/likoosong/kml_generater) Kml-generater。
+
+## 个人博客
+
+[![](https://img.shields.io/badge/博客-likoosong-blue)](https://likoosong.github.io)
