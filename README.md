@@ -1,6 +1,6 @@
 <div><a href="https://github.com/likoosong"><img src="./images/logo202400.png" align="right" /></a></div>
 
-<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" height="3">
+<!-- <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" height="3"> -->
 
 [![Auth](https://img.shields.io/badge/Auth-likoosong-ff69b4?logo=github)](https://github.com/likoosong) [![Gitee](https://img.shields.io/badge/Gitee-szbin-green?logo=gitee)](https://gitee.com/likoosong) [![Weibo](https://img.shields.io/badge/微博-雁过无声song-8A2BE2?logo=Weibo)](https://www.weibo.com/u/1495375454) [![公众号](https://img.shields.io/badge/公众号-雁过无声song-blue?logo=Wechat)](https://mp.weixin.qq.com)  
 
